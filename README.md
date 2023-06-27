@@ -2,7 +2,7 @@
 
 ## ¿Quién soy?
 
-Soy Ricardo Zegarra, un Data Analyst con formación en Ingeniería Industrial y experiencia en Marketing Digital. Me apasiona el análisis de datos, la generación de informes y la elaboración de estrategias de comunicación efectivas. Mi enfoque se centra en utilizar datos para tomar decisiones informadas y mejorar los resultados.
+Soy Ricardo Zegarra, un Data Analyst con formación en Ingeniería Industrial. Me apasiona el análisis de datos, la generación de informes y la elaboración de estrategias de comunicación efectivas. Mi enfoque se centra en utilizar datos para tomar decisiones informadas y mejorar los resultados.
 
 ## ¿Qué hago?
 
